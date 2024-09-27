@@ -1,0 +1,10 @@
+
+BankNo: BN001
+Name: Mark Jovan Octat
+Street: Pol oton
+City: Manolo FOrtichh 
+Email: asd@
+PhoneN: 09354576631
+Balance: 0.0
+Passcode: mark
+------

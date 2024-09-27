@@ -1,0 +1,2 @@
+BN001, Deposit, Php500
+BN001, Withdraw, Php500
